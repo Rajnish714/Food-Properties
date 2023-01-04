@@ -13,5 +13,13 @@
   },
   "author": "rajnish",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajnish714/Food-Properties.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rajnish714/Food-Properties/issues"
+  },
+  "homepage": "https://github.com/Rajnish714/Food-Properties#readme",
   "description": ""
 }
